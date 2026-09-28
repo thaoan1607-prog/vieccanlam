@@ -1,0 +1,6 @@
+{
+  "name": "Việc cần làm hôm nay",
+  "description": "Ứng dụng ghi nhanh và sắp xếp công việc thông minh với trợ lý AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
